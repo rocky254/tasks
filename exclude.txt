@@ -7,3 +7,4 @@ api/.env.example
 api/.env.local.mac
 api/.env.deployment.solutech
 frontend/.env.local
+.DS_Store

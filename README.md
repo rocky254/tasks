@@ -1,14 +1,14 @@
-# Loan Calculator System Requirements (Mac OS)
+# Tasks System Requirements (Mac OS)
 1. XAMPP Server (https://www.apachefriends.org/download.html)
 2. Composer (https://getcomposer.org/download/)
 3. PHP Version ^8.1 (https://windows.php.net/downloads/releases/php-8.2.5-src.zip)
 
-# Loan Calculator System Requirements (Windows OS)
+# Tasks System Requirements (Windows OS)
 1. MAMP Server (https://www.mamp.info/en/downloads/)
 2. Composer (https://getcomposer.org/download/)
 3. PHP Version ^8.1 (https://www.php.net/distributions/php-8.2.5.tar.gz)
 
-# Employee Performance Management System Installation
+# Tasks System Installation
 # Application uses a MySQL Database (XAMPP Apache)
 
 1. Clone the Github Repository in the htdocs folder for your MAMP/XAMPP installation
