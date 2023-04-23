@@ -1,0 +1,6 @@
+VUE_APP_I18N_LOCALE=en
+VUE_APP_I18N_FALLBACK_LOCALE=en
+
+VUE_APP_API_URL='http://localhost:8888/solutech/api/public/api/'
+VUE_APP_BASE_URL='/'
+VUE_APP_EMAIL_URL='http://localhost:8080/'

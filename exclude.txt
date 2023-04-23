@@ -1,0 +1,9 @@
+api/storage/logs/
+api/storage/framework/cache/
+api/bootstrap/cache/
+api/public/auth/
+api/public/storage/
+api/.env.example
+api/.env.local.mac
+api/.env.deployment.solutech
+frontend/.env.local

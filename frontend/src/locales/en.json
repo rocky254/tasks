@@ -1,0 +1,16 @@
+{
+    "links": {
+        "home": "Home",
+        "about": "About Us",
+        "values": "Values",
+        "gallery": "Gallery",
+        "contact": "Contact Us"
+    },
+    "founders": {
+        "home": "Home",
+        "about": "About Our Founder",
+        "areas": "Expertise",
+        "achievements": "Achievements",
+        "contact": "Contact Us"
+    }
+}
